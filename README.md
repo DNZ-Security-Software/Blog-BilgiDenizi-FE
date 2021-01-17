@@ -1,4 +1,4 @@
-# Blog-BilgiDenizi-FE
+# Blog-BilgiDenizi-(Frontend)
 
 <img src="./assets/cover_diag.png" alt="cover_diag" style="zoom:67%;" />
 
