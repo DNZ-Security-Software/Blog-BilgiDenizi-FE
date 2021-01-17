@@ -1,5 +1,7 @@
 # Graduation Project Outline
 
+## Blog-BilgiDenizi-FE
+
 <img src="./assets/cover_diag.png" alt="cover_diag" style="zoom:67%;" />
 
 This is my Clarusway Full-stack Developer bootcamp graduation project. It is a _blog site_ project.
