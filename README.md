@@ -1,6 +1,4 @@
-# Graduation Project Outline
-
-## Blog-BilgiDenizi-FE
+# Blog-BilgiDenizi-FE
 
 <img src="./assets/cover_diag.png" alt="cover_diag" style="zoom:67%;" />
 
