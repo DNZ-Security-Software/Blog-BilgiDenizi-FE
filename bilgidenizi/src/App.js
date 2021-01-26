@@ -1,7 +1,10 @@
+import Navbar from './components/navbar';
+
 function App() {
     return (
-        <div className="App">
-            <h1>BİLGİ DENİZİ</h1>
+        <div>
+            <Navbar />
+            <h1>Bilgi Denizi Home Page </h1>
         </div>
     );
 }
